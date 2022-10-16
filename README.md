@@ -40,6 +40,7 @@ Software Developer
 ### Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/neeraj029?hide=ranking)](https://leetcode.com/neeraj029)
 
+### GeeksForGeeks
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=19ucs029)](https://auth.geeksforgeeks.org/user/19ucs029/practice/)
 
 <b>My GitHub Stats</b>
